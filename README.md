@@ -1,2 +1,0 @@
-# enflasyon
-Enflasyon rakamları
